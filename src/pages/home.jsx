@@ -8,7 +8,10 @@ import React from "react";
 class Home extends React.Component {
     render() {
         return <>
-        <div>Home Page</div>
+        <div>Home Page
+
+            <p>This is the home page</p>
+        </div>
 
         {/* <Navbar/>
         <Herobox/> 
